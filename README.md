@@ -14,5 +14,9 @@ This plugin is in Beta, so there may be many bugs.
 
 **If you have *QQ*, please join *1047898941* — SL Qingfeng Community.**
 
+THIS PLUGIN USE C#12.0 / .NET Framework 4.8 / EXILED 9.14.2
+Game Vision : **14.2.7**
+Exiled Vision : **9.14.2**
+
 **-by *hjh* 
 *06/09/2026***
